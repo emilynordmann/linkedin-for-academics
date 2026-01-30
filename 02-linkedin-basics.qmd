@@ -1,0 +1,173 @@
+# LinkedIn Basics {#basics}
+
+This chapter covers setting up your profile and understanding how LinkedIn works. If you already have an established presence, skip ahead. If you are starting fresh or have a neglected profile from 2015, read on.
+
+## Setting Up Your Profile
+
+Your profile is your landing page. When someone sees your post or comment, they will click through to your profile to decide whether to follow you or connect. Make it count.
+
+### Your headline
+
+You get 220 characters. Use them to say what you actually do, not just your job title.
+
+**Adequate:** "Professor of Psychology, University of Glasgow"
+
+**Better:** "Professor of Psychology | Associate Dean Learning & Teaching | Research on lecture capture, student learning, and inclusive education | 🏳️‍🌈"
+
+The headline appears everywhere: in search results, next to your comments, when you appear in someone's feed. It should tell people what you do and why they might want to follow you.
+
+### Your About section
+
+This is your chance to say who you are in your own words. Write in first person. Be specific about your work and interests. Include enough personality that you sound like a human being.
+
+Here is mine as an example:
+
+> I'm a Professor of Psychology at the University of Glasgow where I'm also Associate Dean for Learning and Teaching for the College of Medical, Veterinary and Life Sciences.
+>
+> My research focuses on how students learn in blended and digital environments, with a particular interest in lecture capture and its role in accessibility and inclusion. More broadly, I'm interested in evidence-informed education, study skills, and the design of sustainable teaching practices. I'm a Principal Fellow of the Higher Education Academy.
+>
+> I'm also one half of PsyTeachR, developing open-source data skills resources for psychology, and I co-founded Rainbow Office Hours to support LGBTQ+ students and staff in higher education.
+>
+> On LinkedIn I share research, teaching ideas, open resources, and occasional strong opinions about higher education. I also talk about hillwalking more than is probably appropriate for a professional network.
+
+Notice: specific about research interests, mentions key roles and achievements, signals what kind of content to expect, includes a bit of personality at the end. Write yours in whatever voice feels authentic to you.
+
+### Profile photo and banner
+
+Use a photo where people can see your face. It does not need to be a professional headshot, but it should be recognisable. People identify posts by the thumbnail, so consistency helps.
+
+The banner image is optional but useful. Common choices: a photo of your institution, an image related to your research, a landscape from where you live, something that reflects your personality. [Unsplash](https://unsplash.com) has free images if you need them.
+
+### The rest
+
+**Experience:** List your academic positions. You do not need to include everything since your undergraduate degree.
+
+**Education:** Your degrees. Keep it simple.
+
+**Featured:** Pin important content here. Your most significant paper, a key resource, a recent talk. This appears prominently on your profile.
+
+**Skills:** Add relevant ones. Others can endorse you, which looks nice but matters less than you might think.
+
+## Enabling Followers
+
+By default, LinkedIn emphasises connections (mutual relationships). But you can also enable a "Follow" option so people can see your content without you accepting a connection request.
+
+To enable this: Settings > Visibility > Visibility of your profile & network > Make follow primary. This means the default button on your profile becomes "Follow" rather than "Connect." People can still connect if they click through, but following becomes the easier option.
+
+This is useful if you want a broader audience. Connections have a limit (30,000); followers do not. For most academics, enabling follow makes sense.
+
+## Understanding the Feed
+
+### How the algorithm works
+
+LinkedIn uses an algorithm to determine what appears in your feed. You will not see everything from everyone you follow. The algorithm prioritises content it predicts you will engage with, based on your past behaviour, the content's early performance, and various other factors that LinkedIn does not fully disclose.
+
+A few things that seem to matter based on available evidence:
+
+**Early engagement.** Posts that get likes and especially comments in the first hour tend to be shown more widely. This is why posting when your audience is active matters.
+
+**Comments over likes.** Comments signal higher engagement than reactions. Posts with substantive comments tend to perform better.
+
+**Dwell time.** How long people spend reading your post matters. Content that people actually read (not just scroll past) gets favoured.
+
+**Original content.** There is reasonable evidence that reposts get less engagement than original posts. Analysis from multiple sources suggests reposted content may receive around 85% less engagement than original content, and that heavy reposting can drag down your overall metrics. If you want to share someone else's content, writing your own post that references or builds on their work typically performs better than using the repost button.
+
+**Links.** Single external links in posts appear to reduce reach, possibly because LinkedIn wants to keep users on the platform. The evidence on this is mixed, but many people now put links in the first comment rather than the post itself. Whether this actually helps is unclear, but it has become a common practice.
+
+Do not obsess over this. The algorithm changes, the evidence is often anecdotal, and ultimately good content matters more than gaming the system. But it helps to understand the basics.
+
+### Switching to chronological
+
+By default, LinkedIn shows you an algorithmic feed. You can switch to chronological order if you prefer to see posts in the order they were posted.
+
+On desktop: look for the feed sorting option near the top of your feed and select "Recent." On mobile: tap the dropdown at the top of your feed and select "Recent."
+
+Note that LinkedIn tends to reset this to algorithmic periodically, so you may need to switch it back.
+
+## Taming Notifications and Emails
+
+LinkedIn's default notification settings are aggressive. If you do not adjust them, you will receive emails about everything: who viewed your profile, job anniversaries, suggested posts, people you might know, and endless other noise. It will bury anything actually useful.
+
+Go to Settings > Communications and work through each section. Turn off most email notifications. Keep notifications for direct messages and comments on your posts. Turn off "news and updates," "job opportunities" (unless you are job hunting), and most of the "network" notifications.
+
+On mobile, go to your notification settings and adjust what generates push notifications. You probably do not need to know immediately when someone views your profile.
+
+This is not optional. The default settings will make you hate LinkedIn. Fix them before you do anything else.
+
+## Interacting with Content
+
+### Reactions
+
+LinkedIn offers several reaction options: Like, Celebrate, Support, Love, Insightful, Funny. For most purposes, just use Like. The others exist but rarely matter.
+
+Reacting acknowledges content but does not boost it significantly. Comments matter more for visibility.
+
+### Comments
+
+Comments are where the value is. A thoughtful comment on someone else's post can be more valuable for building connections than your own posts.
+
+When commenting, say something substantive. "Great post!" adds nothing. Engage with the actual content: ask a question, add a related point, share your own experience, respectfully disagree. These comments start conversations and get noticed.
+
+### Reposts
+
+You can repost others' content, either directly or with your own commentary added.
+
+As noted above, reposts tend to get less engagement than original posts. If you want to amplify someone's work, consider writing your own post that engages with their content and tags them, rather than using the repost function. You will likely reach more people and add more value.
+
+If you do repost, add your own thoughts. A bare repost without commentary is the lowest-value option.
+
+### Direct messages
+
+You can message people directly. This is useful for conversations that do not need to be public, or for reaching out to people you want to connect with.
+
+Keep messages short, especially if you are contacting someone you do not know. Say who you are, why you are reaching out, and what you are asking. Long messages from strangers often go unread.
+
+Do not use DMs to pitch products or services. Do not send connection requests with sales messages attached. This is the fastest way to get blocked.
+
+## Connections and Following
+
+### Following others
+
+To follow someone, go to their profile and click Follow. You will see their posts in your feed. They will not see yours unless they also follow you.
+
+Following is low-commitment. Follow people whose content you find valuable, even if you do not know them personally.
+
+### Connection requests
+
+Connections are mutual relationships. When you connect with someone, you both see each other's content and can message directly.
+
+When sending connection requests, add a note explaining who you are and why you want to connect. Generic requests without notes are often ignored, especially by people who receive many requests.
+
+Good reasons to connect: you met at a conference, you work in similar areas, you have engaged with their content, you have a genuine professional reason to be in contact. Bad reasons: you want to sell them something, you are collecting connections for the numbers.
+
+### Who to follow
+
+Start with people you actually know: colleagues, collaborators, people you have met at conferences. Then expand to people whose work you find interesting, people working in your area, organisations and journals relevant to your field.
+
+LinkedIn will suggest people to follow. These suggestions are sometimes useful and sometimes bizarre. Use your judgement.
+
+## Privacy and Visibility
+
+### Profile visibility
+
+You can control who sees your profile and activity through Settings > Visibility.
+
+Options include whether your profile is visible to people not logged in, whether your connections list is visible to others, and whether your activity (likes, comments) is visible.
+
+Here is my view on this: if you do not want your profile to be public, you should think carefully about whether LinkedIn is the right platform for you. The point of LinkedIn for academics is visibility and networking. If you lock everything down, you lose most of the benefit. Either be present and visible, or do not be there at all.
+
+### Blocking
+
+You can block people who are problematic. Go to their profile, click More, and select Block.
+
+When you block someone, they cannot see your profile or content, and you will not see theirs. Importantly, all comments they have made on your posts will disappear. This can be useful for removing unwanted interactions from your content.
+
+Use blocking freely if you need to. You do not owe anyone access to your content.
+
+## A Note on LinkedIn Culture
+
+LinkedIn has a particular culture. It tends toward professional positivity, corporate language, and motivational content. You will see a lot of posts about "exciting opportunities" and people being "humbled" by achievements.
+
+You do not have to adopt this style. Authentic voices that sound like actual humans stand out precisely because so much LinkedIn content sounds like it was written by a corporate communications team (or, increasingly, by AI).
+
+Write like yourself. If you are funny, be funny. If you have strong opinions, share them. If you find the performative positivity exhausting, you are not alone. The best accounts on LinkedIn are the ones that sound like real people.

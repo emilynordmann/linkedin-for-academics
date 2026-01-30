@@ -1,22 +1,27 @@
 project:
-  type: website
+  type: book
   output-dir: docs
 
-website:
-  title: "linkedin-for-scientists"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+book:
+  title: "LinkedIn for Academics"
+  author:
+    - "Emily Nordmann"
+  date: "January 2026"
+  chapters:
+    - index.qmd
+    - 01-why-linkedin.qmd
+    - 02-linkedin-basics.qmd
+    - 03-content.qmd
+    - 04-teaching-learning.qmd
+    - 05-oer.qmd
+    - 06-self-care.qmd
+    - 07-bootcamp.qmd
+  sidebar:
+    style: docked
+    search: true
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    theme: cosmo
     css: styles.css
     toc: true
-
-editor: visual
-

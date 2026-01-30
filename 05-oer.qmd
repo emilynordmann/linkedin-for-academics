@@ -1,0 +1,105 @@
+# Sharing Open Educational Resources {#oer}
+
+If you create teaching materials, making them openly available extends their impact beyond your own institution. This chapter covers why and how to share OER effectively on LinkedIn.
+
+## Why Share Resources Openly?
+
+Many educators create similar resources in isolation. Across institutions, countless hours are spent developing introductory lectures, assessment rubrics, and practical guides that already exist elsewhere.
+
+Open educational resources address this inefficiency. When you share your materials openly, other educators can use them, your resources reach students who might otherwise have limited materials, and you contribute to a commons in your discipline.
+
+> One of the decisions I am proudest of in my role as first year lead has been switching to an open access textbook. I can't control inflation and the cost of living but I can reduce unnecessary additional costs. We use Open Stax.
+
+There are also personal benefits. Your expertise becomes visible beyond your institution, you may receive feedback that improves your resources, and you create documented evidence of impact.
+
+> I consider that making our educational resources available openly is a moral imperative but more cynically, doing so boosts your own impact and reach.
+
+## Why LinkedIn for OER?
+
+OER repositories are essential for hosting and discoverability, but they are passive. People have to find your resources through search or browsing. LinkedIn lets you actively push resources to people who might use them.
+
+When you share an OER on LinkedIn, you can explain the context that repository metadata cannot capture. Why you created it, how you use it, what you would do differently. You can invite feedback and engagement. You can reach people who would never have searched for your resource but might find it useful.
+
+## What to Share
+
+Teaching materials: lecture slides, reading guides, workshop activities. Assessment resources: rubrics, marking guides, example assessments. Practical guides: how-to documents, tutorials, workflows. Data and code: cleaned datasets for teaching, analysis scripts. Planning resources: module outlines, curriculum maps.
+
+Start with what you already have. Most academics have materials that could be useful to others with minimal adaptation.
+
+## Licensing Your Resources
+
+For a resource to be genuinely open, it needs a licence that explicitly permits reuse. Without a licence, copyright applies by default, meaning others cannot legally reuse your work even if you share it publicly.
+
+The most common approach is Creative Commons. For maximum impact, use **CC BY (Attribution)**. Others can use, adapt, and redistribute your work, including commercially, as long as they credit you.
+
+This matters. If you want recognition for your work, CC BY requires attribution. Anyone using your resource has to credit you. This is important for tracking impact and ensuring your contribution is visible.
+
+Other options like CC BY-NC (non-commercial) or CC BY-SA (share-alike) are available but limit reuse in ways that may reduce impact.
+
+Include licence information in the resource itself (on the first or last slide, in the document footer), in the LinkedIn post sharing it, and in any repository listing.
+
+## Hosting Your Resources
+
+Where you host your resources matters for discoverability, sustainability, and demonstrating impact.
+
+**Institutional repositories** ([Glasgow's is Enlighten](https://www.gla.ac.uk/myglasgow/library/enlighten/)) provide stable hosting, institutional recognition, and usually generate DOIs. Check what your institution offers.
+
+**[Open Science Framework](https://osf.io/)** is free, easy to use, and provides DOIs, version control, and download analytics. Good for individual resources or collections.
+
+**[Zenodo](https://zenodo.org/)** is another free option, run by CERN. It generates DOIs automatically and integrates with GitHub.
+
+**[GitHub](https://github.com/)** is good for code and version-controlled documents. Integrates with Zenodo for DOI generation.
+
+**Personal websites** can work but have limitations. They do not generate DOIs (which matters for citation and tracking), do not provide usage analytics, and may not be permanent if you move institutions.
+
+DOIs matter because they make your resources citable and trackable. If someone uses your resource in a publication or training materials, a DOI makes proper citation straightforward. It also helps you track where your resources are being referenced.
+
+If you need analytics and evidence of impact, use a platform that provides download statistics. Personal websites usually do not.
+
+## Sharing OER on LinkedIn
+
+When sharing an OER, include:
+
+**What it is.** Describe the resource specifically. "Lecture slides" is too vague. "A set of 12 lecture slide decks covering introductory research methods in psychology" is specific enough to evaluate.
+
+**Who it is for.** Help people assess relevance. "Designed for first-year undergraduates but adaptable for other levels."
+
+**How to access it.** Provide a clear link to a stable location.
+
+**The licence.** State clearly how the resource can be used. "Licensed CC BY 4.0, free to reuse with attribution."
+
+**Context and guidance.** How do you use this? What works well? What might users want to adapt?
+
+### Examples
+
+> It's important to teach students how to learn but not everyone has the time or expertise to develop materials. Inspired by Prof Niamh Stack's inaugural lecture and call for open educational resources, here's my How to Study slides for 1st yr University of Glasgow psychology students. You are free to use and adapt the slides as you wish.
+>
+> Access the full slides here [OSF link]
+
+Mentions casually as part of normal work:
+
+> Had an absolute blast visiting Leeds this week. Gave a talk for the Faculty of Biomedical Sciences about lecture capture and then nipped across to Psychology to talk about how and why we should teach data skills and open science as part of any psychology curriculum (both sets of slides available at [OSF link]).
+
+With explicit licence:
+
+> To accompany my course Applied Data Skills I have written a companion textbook AI Tutor that aims to teach students about AI through a psychologically literate lens.
+>
+> As always it has a Creative Commons licence so you are free to reuse and remix, with attribution.
+
+## Building OER Practice
+
+**Start small.** You do not need to release an entire course. Start with a single resource: a rubric, a set of slides, a practical guide. See how it goes.
+
+**Document as you go.** When you create resources, add licence information and basic metadata from the start. It is much harder to retrospectively license a large collection.
+
+**Iterate based on feedback.** If others use your resources and give feedback, use it to improve. Version control (available on OSF and GitHub) lets you update while preserving the history.
+
+## Challenges
+
+**Time investment.** Creating resources that are genuinely useful to others requires more work than creating resources for your own use alone. Polish matters.
+
+**Quality concerns.** Sharing work publicly can feel exposing. Remember that "good enough to be useful" is the bar, not "perfect."
+
+**Institutional recognition.** OER creation is not always recognised in workload models or promotion criteria. This is changing slowly. Track your impact in case you need to make the case.
+
+**Accessibility.** Ensure your resources are accessible: document structure, alt text for images, readable fonts. This takes time but matters.

@@ -1,0 +1,93 @@
+# Sharing Teaching Practice {#teaching}
+
+If you focus primarily on teaching, LinkedIn offers a way to share your work with people who might benefit from it. Teaching innovations developed in isolation get reinvented constantly across institutions. Sharing what you do breaks that cycle.
+
+## Why Share Teaching on LinkedIn?
+
+Your teaching innovations deserve an audience beyond your own classroom. When you develop an effective assessment approach, solve a common pedagogical problem, or create a useful resource, others could benefit.
+
+LinkedIn connects you with educators across institutions and sectors. Learning technologists, educational developers, trainers in professional contexts, and academics in other disciplines often face similar challenges. These connections can be professionally valuable and lead to collaborations.
+
+Sharing teaching practice also builds your portfolio. Education-focused careers benefit from documented evidence of innovation and impact. Public posts that generate engagement demonstrate reach in ways that internal reports cannot.
+
+## What to Share
+
+### Teaching approaches and innovations
+
+Share what you do in your teaching and why. A new approach you tried and how it went. An assessment design that worked well (or did not, and what you learned). How you structure a particular type of session.
+
+Be specific enough that others could adapt your approach.
+
+> This semester I have been working my way through the redesign of our course Applied Data Skills, which was originally a 10-credit online micro-credential and is being resurrected and reimagined as a 20-credit, on-campus course as part of our new Curriculum for Life portfolio.
+>
+> One of the things I have tried to do is ensure students learn about AI and coding from a critical and psychologically literate perspective and I have redesigned a previously formative exercise into a summative assessment I am, if I do say so myself, quite pleased with.
+>
+> 1. Students are given a dataset and a finished report and tasked with backwards engineering the report. They are told not to use AI at all for this attempt.
+> 2. They then peer review two other submissions and provide feedback using a rubric. If they submit the report, do the peer review, and have attended 75% of the workshops (extenuating circumstances and disability notwithstanding) they are awarded a grade for participation (15%). The attendance component is designed to support the strong narrative that coding is not a skill that can be learned through cramming, but requires consistent, and spaced, practice.
+> 3. In the following workshop, they are then tasked with producing the report, but AI has to write every single line of code. They do this as a paired exercise so they can compare how their different prompts affect the output.
+
+This shares enough detail that someone could implement a similar approach and explains the pedagogical reasoning.
+
+### Commenting on current issues
+
+When issues arise in higher education that relate to your expertise, share your perspective.
+
+> I've been putting off reading this because I knew it would make me angry and I was right. The first, the last, and the only question you should have in response to when someone says there are too many people in higher education is "whose children should still get to go?" Because the answer will reveal that higher education does still have value and prestige, but only if you're from the right background.
+
+This positions you as someone who engages critically with current debates.
+
+### Reflections and lessons learned
+
+Some of the most valuable teaching content is reflective. What you wish you had known when you started teaching. How your teaching philosophy has evolved. Lessons from teaching the same content over many years.
+
+> It's been a funny September. The changes to my role means I'm doing a lot less teaching and a lot more behind the scenes work. August was like being hit in the face with a brick but September has been calmer (I stress calmER, not calm) which is a 180 to the last decade. If I told you how much I enjoy my new role, you'd accuse me of performative sycophancy so suffice to say I feel like I am where I am supposed to be and I am being challenged and supported in all the right ways (that is, not too much, but not too little of either).
+>
+> But nothing, and I repeat nothing, will ever mean as much and get me up in the morning so happily as lecturing new first year students ❤️
+
+### Sharing resources
+
+When you share teaching resources, host them somewhere that provides analytics. This matters for demonstrating impact. If your slides are on your personal website, you cannot easily show how many people downloaded them. If they are on the [Open Science Framework](https://osf.io/), [Zenodo](https://zenodo.org/), or an institutional repository, you get download counts.
+
+> Had an absolute blast visiting Leeds this week. Gave a talk for the Faculty of Biomedical Sciences about lecture capture and then nipped across to Psychology to talk about how and why we should teach data skills and open science as part of any psychology curriculum (both sets of slides available at [OSF link]).
+
+Use a CC BY licence so that people who use your resources have to credit you. This is important for tracking impact and ensuring your contribution is recognised. More on licensing in [Chapter 5](#oer).
+
+## Building a Teaching-Focused Profile
+
+If teaching is central to your work, your profile should reflect that.
+
+Your headline should mention teaching roles and interests, not just your research focus. "Professor of Psychology | Teaching-focused | Assessment design, inclusive pedagogy, evidence-informed education" tells people what to expect.
+
+Your About section should describe your teaching interests alongside (or instead of) research interests. Mention specific areas of expertise, innovations you have developed, or communities you are part of.
+
+Use the Featured section to highlight teaching-related content: resources you have created, posts about pedagogy, evidence of teaching awards or recognition.
+
+## Engaging with the Teaching Community
+
+### Finding people
+
+Search for hashtags like #HigherEducation, #AcademicTwitter (yes, people still use it), #EdTech, or discipline-specific tags. Follow organisations like Advance HE, SEDA, or your discipline's teaching network.
+
+Look at who engages with teaching-focused content from people you already follow. Check who posts content you find valuable and follow them.
+
+### Participating in discussions
+
+Comment on posts about teaching. Share your own experiences when relevant. Ask questions. Build relationships through genuine engagement, not just broadcasting your own content.
+
+## The Scholarship of Teaching and Learning
+
+If you engage in SoTL research, LinkedIn is useful for sharing your work with practitioners who might apply it, finding collaborators across institutions, and recruiting research participants.
+
+When sharing pedagogical research, explain the practical implications. "We found X" is less useful than "We found X, which suggests teachers might want to consider Y."
+
+## Challenges
+
+A few things to be careful about.
+
+**Institutional sensitivities.** Not everything about your teaching context can be shared publicly. Be thoughtful about what you post, especially regarding challenges or criticisms.
+
+**Student privacy.** Even positive stories about students can be problematic. See [Chapter 3](#content) for more on this.
+
+**Avoiding performative reflection.** There is a genre of teaching post that is more about signalling how much you care than sharing useful information. Try to be genuinely useful rather than performatively reflective.
+
+**Documenting impact.** If you want to use your LinkedIn activity as evidence of impact, keep track of engagement metrics, download figures from repositories, and any tangible outcomes (invitations, collaborations, adoptions of your resources). Screenshots are useful because platforms change and posts can disappear.

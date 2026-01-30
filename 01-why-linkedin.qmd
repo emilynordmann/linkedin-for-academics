@@ -1,0 +1,74 @@
+# Why LinkedIn? {#why-linkedin}
+
+Dan's original book makes the case for why academics should use social media at all. The short version: academia is not a meritocracy, good work does not automatically find its audience, and social media provides a way to share your work that does not depend on gatekeepers. If you want the full argument with evidence, read [Chapter 1 of Twitter for Scientists](https://t4scientists.com/).
+
+This chapter addresses a different question: given that you have decided social media might be useful, why LinkedIn specifically?
+
+## The Post-Twitter Landscape
+
+The platform formerly known as Twitter was, for about a decade, the de facto home of academic social media. Researchers shared papers, debated methodology, built collaborations, and created genuine communities around shared interests. It was chaotic, occasionally toxic, but undeniably useful.
+
+That era is over. Changes to the platform since 2022 have driven many academics elsewhere. Research tracking academic migration found that approximately [18% of previously active academics moved from Twitter to Bluesky](https://arxiv.org/abs/2505.24801) between 2023 and 2025. Others scattered to Mastodon, Threads, or simply left social media entirely.
+
+The academic social media landscape is now fragmented. There is no single platform that replicates what Twitter offered at its peak. LinkedIn is one option among several, with particular strengths and limitations.
+
+## What LinkedIn Offers
+
+**A large, professionally-oriented user base.** LinkedIn has over 1.2 billion members globally, with more than 50% holding a degree. Your potential audience includes academics, but also professionals in industry, policy, healthcare, education, and other sectors where your work might have relevance.
+
+**Stability.** Unlike platforms that have undergone dramatic changes in ownership or policy, LinkedIn has remained relatively consistent. Your investment in building a presence is less likely to be wiped out by platform upheaval.
+
+**Professional context.** LinkedIn's culture is explicitly professional. This shapes expectations in ways that can be useful: posts are generally taken seriously, professional achievements are celebrated rather than mocked, and the tone tends toward constructive rather than combative.
+
+**Academic discourse.** LinkedIn does support genuine academic discussion. It is slower and less spontaneous than Twitter was, but substantive conversations happen. You can share papers, debate ideas, and engage with others' work. The threading is clunkier and the real-time back-and-forth is harder, but the discourse exists.
+
+**Reach beyond academia.** If your work has implications for practice, policy, or the public, LinkedIn connects you with people who might actually use it. Practitioners, policymakers, journalists, and industry professionals are all active on the platform.
+
+## What LinkedIn Does Not Offer
+
+I am not going to pretend LinkedIn is perfect. It has real limitations.
+
+**Slower, less spontaneous interaction.** The rapid-fire exchanges that characterised academic Twitter do not really happen on LinkedIn. Conversations unfold over hours or days rather than minutes. This can be frustrating if you are used to real-time debate.
+
+**Algorithmic unpredictability.** Like all platforms, LinkedIn uses algorithms to determine what appears in feeds. Organic reach has declined significantly over recent years. Your posts may not reach your followers reliably, and there is little transparency about why.
+
+**A corporate aesthetic.** LinkedIn's culture skews toward corporate professionalism. The performative positivity and motivational content can be grating. You will scroll past a lot of "I'm humbled to announce" posts.
+
+**Limited threading and conversation structure.** Compared to Twitter's threading, LinkedIn's comment structure makes extended conversations harder to follow. Complex discussions get messy quickly.
+
+## For Teaching-Focused Academics
+
+If your primary focus is teaching rather than research, LinkedIn offers some specific advantages.
+
+Teaching innovations deserve audiences beyond your own institution. When you develop an effective assessment approach, create useful resources, or solve a common pedagogical problem, others could benefit from knowing about it. LinkedIn provides a way to share this work with educators across institutions and sectors.
+
+LinkedIn also connects you with people outside traditional academic networks: learning technologists, educational developers, trainers in professional contexts, and others working on similar problems in different settings. These connections can be professionally valuable and intellectually stimulating.
+
+To be clear: Twitter was also good for this. The teaching and learning community on academic Twitter was vibrant and supportive. Dan's original book simply did not focus on it, so this book addresses that gap.
+
+## For Sharing Open Educational Resources
+
+If you create open educational resources, LinkedIn offers a distribution channel. OER repositories are essential for hosting and discoverability, but they are largely passive. LinkedIn lets you actively push resources to people who might use them, explain the context, and invite feedback.
+
+There is more on this in [Chapter 5](#oer).
+
+## Should You Use LinkedIn?
+
+LinkedIn is not for everyone. It requires time and energy, and the returns are uncertain. Before investing, consider whether it aligns with your goals.
+
+LinkedIn might be worth your time if:
+
+- You want to share your work with audiences beyond academia
+- You are building a professional network across institutions or sectors
+- You want to establish expertise in a particular area
+- You create resources that others could use
+- You are looking for your next position and want to be discoverable
+
+LinkedIn is probably not worth your time if:
+
+- You want rapid, real-time academic debate (try Bluesky)
+- You are looking for a close-knit community feel (try Mastodon)
+- You have no interest in professional networking
+- You are already stretched thin and cannot sustain another platform
+
+The rest of this book assumes you have decided LinkedIn is worth trying. It will help you use it effectively. But the decision is yours, and "no" is a perfectly reasonable answer.
