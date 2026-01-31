@@ -22,8 +22,9 @@ book:
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme:
+      light: cosmo
+      dark: slate
     toc: true
     include-in-header:
       - text: |

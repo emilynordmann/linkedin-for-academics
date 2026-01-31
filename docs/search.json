@@ -30,11 +30,21 @@
     ]
   },
   {
-    "objectID": "index.html#about-us",
-    "href": "index.html#about-us",
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
     "title": "LinkedIn for Academics",
-    "section": "0.3 About Us",
-    "text": "0.3 About Us\nEmily Nordmann is Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. Her research focuses on how students learn in blended and digital environments, with particular emphasis on lecture capture and inclusive education. She is a Principal Fellow of the Higher Education Academy and co-founder of Rainbow Office Hours. She lives in Glasgow with her wife and likes to climb mountains and read books.",
+    "section": "0.3 About me",
+    "text": "0.3 About me\nI am a Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. My research focuses on how students learn in blended and digital environments, with a particular emphasis on lecture capture and inclusive education. I am a Principal Fellow of the Higher Education Academy and I live in Glasgow with my wife and like to climb mountains and read books.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>LinkedIn for Academics</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#citation",
+    "href": "index.html#citation",
+    "title": "LinkedIn for Academics",
+    "section": "0.4 Citation",
+    "text": "0.4 Citation\nNordmann, E. (2026). LinkedIn for Academics [ebook edition]. Retrieved from https://emilynordmann/linkedin-for-academics. https://doi.org/10.5281/zenodo.18445332",
     "crumbs": [
       "<span class='chapter-number'>1</span>  <span class='chapter-title'>LinkedIn for Academics</span>"
     ]
@@ -517,26 +527,6 @@
     "text": "8.6 After the Bootcamp\nYou have established a baseline. Now find what works for you.\nQuality over quantity. You do not need to post every day. A few good posts per week is plenty.\nEngage more than you post. Commenting on others’ posts is often more valuable than creating your own.\nRepurpose relentlessly. Talks become posts. Papers become threads. Teaching materials become shared resources.\nFollow your interests. Post about what you actually care about, not what you think will perform well.\nTake breaks. It is fine to be quiet sometimes.\nThe goal is sustainable practice, not burnout.",
     "crumbs": [
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>One-Month Bootcamp</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "LinkedIn for Academics",
-    "section": "0.3 About me",
-    "text": "0.3 About me\nI am a Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. My research focuses on how students learn in blended and digital environments, with a particular emphasis on lecture capture and inclusive education. I am a Principal Fellow of the Higher Education Academy and I live in Glasgow with my wife and like to climb mountains and read books.",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>LinkedIn for Academics</span>"
-    ]
-  },
-  {
-    "objectID": "index.html#citation",
-    "href": "index.html#citation",
-    "title": "LinkedIn for Academics",
-    "section": "0.4 Citation",
-    "text": "0.4 Citation\nNordmann, E. (2026). LinkedIn for Academics [ebook edition]. Retrieved from https://emilynordmann/linkedin-for-academics. https://doi.org/10.5281/zenodo.18445332",
-    "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>LinkedIn for Academics</span>"
     ]
   }
 ]
