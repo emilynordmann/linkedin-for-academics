@@ -9,31 +9,27 @@ date: "January 2026"
 
 ## Why This Book Exists
 
-In 2020, Daniel Quintana wrote *Twitter for Scientists*, a practical guide to using Twitter for academic networking and research dissemination. It was licensed under Creative Commons, freely available, and genuinely useful. I recommended it to colleagues regularly.
+I consider myself lucky to have experienced academic Twitter of the 2010s - I have long-standing research collaborations with people I met on Twitter, I owe my job at Glasgow to Twitter, and I even made a new best friend from Twitter. And then it collapsed into a hateful cesspit and academic social media  fractured. Some academics migrated to Bluesky, Mastodon and Threads, but, to everyone's genuine surprise, many, including myself, have settled on LinkedIn. 
 
-Then Twitter imploded.
-
-The platform that hosted vibrant academic communities became increasingly hostile, algorithmically unpredictable, and politically fraught. Many academics migrated elsewhere: Bluesky, Mastodon, Threads, LinkedIn. Some gave up on social media entirely. Dan's excellent guidance remained relevant in principle but the platform it described no longer existed in any meaningful sense.
-
-This book is a companion to *Twitter for Scientists*, adapted for LinkedIn and updated for the current landscape. It is not a replacement. If you want comprehensive guidance on why academics should engage with social media at all, read Dan's original. This book assumes you have already decided that some form of professional social media presence might be useful and focuses on making LinkedIn work for you specifically.
+In 2020, Daniel Quintana wrote [Twitter for Scientists](https://t4scientists.com/), a practical guide to using Twitter for academic networking and research dissemination. This book is a sequel of sorts, adapted for LinkedIn and updated for the current landscape. It is not a replacement and if you want comprehensive guidance on why academics should engage with social media at all, you should still read Dan's original. This book assumes you have already decided that some form of professional social media presence might be useful and focuses on making LinkedIn work for you specifically.
 
 ## Why LinkedIn?
 
-LinkedIn is not Twitter. It never will be. The culture is different, the conventions are different, and the types of interactions it facilitates are different. But it offers something valuable: a stable, professionally-oriented platform where academics can share their work, build networks, and establish expertise.
+LinkedIn is not Twitter and it never will be. The culture is different, the conventions are different, and the types of interactions it facilitates are different. But it offers a relatively stable, professionally-oriented platform where academics can share their work, build networks, and establish expertise.
 
-This book covers LinkedIn basics, content strategy, and maintaining your wellbeing on the platform. It also includes material that Dan's original did not emphasise: using LinkedIn to share teaching practice and open educational resources. Not because Twitter was bad for this, but because teaching-focused academics have historically been underserved by guidance on academic social media use.
+This book covers LinkedIn basics, content strategy, and maintaining your wellbeing on the platform. It also includes material that Dan's original did not emphasise, in particular, using LinkedIn to share teaching practice and open educational resources. Not because Twitter was bad for this, but because teaching-focused academics have historically been underserved by guidance on academic social media use and because I am a ride-or-die education-focused academic.
 
 ## About Us
 
-**Emily Nordmann** is Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. Her research focuses on how students learn in blended and digital environments, with particular emphasis on lecture capture and inclusive education. She is a Principal Fellow of the Higher Education Academy and co-founder of Rainbow Office Hours. She lives on a hill outside Glasgow with her wife and too many books.
+**Emily Nordmann** is Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. Her research focuses on how students learn in blended and digital environments, with particular emphasis on lecture capture and inclusive education. She is a Principal Fellow of the Higher Education Academy and co-founder of Rainbow Office Hours. She lives in Glasgow with her wife and likes to climb mountains and read books.
 
 
 ## Licence
 
-This book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This book is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Acknowledgements
 
 This book builds directly on Dan Quintana's *Twitter for Scientists* (2020), which remains available at [t4scientists.com](https://t4scientists.com/). The structure and much of the underlying thinking comes from that work.
 
-The adaptation, errors, and opinions are my own.
+Claude (Anthropic) was used heavily in the making of this book but I take full responsibility for the adaptation, errors, and any opinions expressed in it.

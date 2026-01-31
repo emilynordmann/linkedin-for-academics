@@ -1,12 +1,10 @@
 # Creating Content {#content}
 
-The question I get asked most about LinkedIn is "what should I post?" There is no formula, but there are principles that help.
+The question I get asked most about LinkedIn is "what should I post?" Everyone has a different style and what works for you will be different for what works for me but here's a starter guide.
 
 ## The Basic Principle
 
-Post things that are genuinely useful, interesting, or engaging to people in your field. That is it. Everything else is details.
-
-You are well-placed to educate because you have expertise. You do not need to be the world's leading authority on a topic to have something worth sharing. If you know something that others in your network might find useful, share it.
+Post things that are genuinely useful, interesting, or engaging to people in your field. That is it. Everything else is details. You are well-placed to educate because you have expertise. You do not need to be the world's leading authority on a topic to have something worth sharing. If you know something that others in your network might find useful, share it.
 
 ## What Works
 
@@ -14,64 +12,36 @@ You are well-placed to educate because you have expertise. You do not need to be
 
 Share papers, preprints, and resources you have created. When you do:
 
-- Explain what the paper is about in plain language
-- Highlight why it matters and who should care
-- Include a key finding or takeaway
-- Link to an open access version if possible
-- Tag co-authors who are on LinkedIn
+-   Explain what the paper is about in plain language
+-   Highlight why it matters and who should care
+-   Include a key finding or takeaway
+-   Link to an open access version if possible
+-   Tag co-authors who are on LinkedIn
+-   All posts benefit from images so e.g., take a screenshot of the abstract or a graph from the paper.
 
 Here is an example:
 
-> 📢 New preprint klaxon 📢
->
-> Very happy to finally have this paper submitted with my lecture capture partner in crime Jill MacKay. We conducted a scoping review of the post-pandemic lecture capture literature and a content analysis to determine how lecture capture maps on to the Universal Design for Learning (UDL) framework. None of it is surprising but we hope it's useful to clarify both the importance and limits of lecture capture as an inclusive technology.
->
-> This was quite a new approach methodologically for me, so any feedback welcome.
->
-> Link to preprint: [link]
-
-Note: explains the content, acknowledges collaborators, invites feedback.
+![Sharing a new preprint](images/preprint.png)
 
 ### Sharing others' work
 
 You do not have to create everything you share. Sharing papers and resources from others with your own commentary is valuable.
 
-Add your perspective: why is this worth reading? What did you learn?
+Add your perspective: why is this worth reading? What did you learn? This does more than share a link. It explains what makes the paper noteworthy and positions you as someone with expertise. It is entirely possible to build a following by being a person who shares a lot of stuff people find interesting and have none of it be your own work.
 
-> I think this is my new favourite lecture capture paper. Main findings that increased viewing time predicted higher exam performance but that how students spend that time matters. Those who are clearly deliberate in their efforts and focus on a smaller number of lectures for longer do better whereas spikes in viewing associated with cramming predicted reduced scores:
->
-> ✅ Strong link to theory (self-regulated learning)  
-> ✅ Learning analytic data rather than self-report  
-> ✅ Mixed-effect models and account for between and within-participant effects  
-> ✅ Power analysis
->
-> I'm not saying it's perfect but these things are vanishingly rare in the lecture capture literature.
-
-This does more than share a link. It explains what makes the paper noteworthy and positions you as someone with expertise to evaluate research quality.
+![Sharing a paper from someone else](images/paper.png)
 
 ### Reflecting on experience
 
-Posts that share genuine experience resonate strongly. What you have learned, what challenged you, what you wish you had known earlier.
+Posts that share genuine experience resonate strongly. What you have learned, what challenged you, what you wish you had known earlier. This can work because it shares specific insights from real experience.
 
-> At the end of 2025 I officially came to the end of my role as Deputy Director of Education for the School of Psychology and Neuroscience to make way for my position as Associate Dean. I got so much out of my time as Deputy and it was a genuine honour to help support such a fantastic team and I could not be happier to hand over the reins to Maxine Swingler.
->
-> My main focus as deputy was on improving how we record and allocate teaching-related workload across the School, and whilst I can't say I have fixed academic workload (what with not having a magic wand and all), I'm confident enough to say that I pushed us in the right direction.
->
-> My work on workload is not something I talk about much online as it's often not appropriate for sharing but after three and a half years, my two hot takes are:
->
-> 1. It is impossible to accurately record absolute workload (because different people take a different amount of time for different tasks at different points in their career, and how long they take is affected by ever-changing external factors). But if anyone uses that as a reason not to model workload, it's because they don't actually understand the issue, or they're trying to hide something. Being able to measure relative workload across a team is much more important than whether those tariffs have 100% absolute accuracy.
->
-> 2. Giving people agency over their workload is often more effective for improving wellbeing and staff satisfaction than trying to reduce the total.
-
-This works because it shares specific, actionable insights from real experience.
+![](images/reflections.png)
 
 ### Asking questions
 
-Asking genuine questions invites engagement and surfaces useful information.
+Asking questions can invite engagement and is a really useful way of getting information. Remember that specific questions get specific answers. Vague questions ("Any tips for teaching?") get vague answers.
 
-> Hive mind: does anyone have suggestions for a person who could deliver an online workshop on student incivility and classroom management specific to the higher education context rather than schools? Like practical advice for students being disruptive in large lectures etc.
-
-Specific questions get specific answers. Vague questions ("Any tips for teaching?") get vague answers.
+![](images/questions.png)
 
 ### Images
 
@@ -79,9 +49,11 @@ Include images when you can. They make posts more visually distinctive in the fe
 
 If you give a talk, take a photo of the room or your slides. If you are at a conference, document it. If you are reading something interesting, photograph the book. These do not need to be professional quality. They just need to break up the text and give people something to look at.
 
+![](images/image.png)
+
 ## What Does Not Work
 
-**Pure self-promotion without value.** "Excited to announce my new paper!" with a link and nothing else. Tell people why they should care.
+**Pure self-promotion without value.** "Excited to announce my new paper!" with a link (sometimes not even with a link) and nothing else. Tell people why they should care.
 
 **Generic inspirational content.** LinkedIn is full of this already. Unless you have something distinctive to say, skip the motivational posts.
 
@@ -105,30 +77,26 @@ Before posting anything about students, ask: would I be comfortable if they saw 
 
 ### Institutional sensitivities
 
-Your institution can see what you post. Before sharing strong opinions about policies, decisions, or directions, consider whether it could create problems. This does not mean you cannot be critical. It means being strategic about what you say publicly versus what you say in other contexts.
+Your institution can see what you post and these days your institution almost certainly has a social media policy you should be aware of. Before sharing strong opinions about policies, decisions, or directions, consider whether it could create problems, either by violating policy or just by coming across to your colleagues as someone they don't really want to work with. This does not mean you cannot be critical and fReEdOm Of SpEeCh still exists. It means being strategic about what you say publicly versus what you say in other contexts.
 
 ### Personal content
 
-How much personal content to share is your choice. Some people keep LinkedIn strictly professional. Others share personal updates, hobbies, and life events.
+How much personal content to share is your choice. Some people keep LinkedIn strictly professional where others share personal updates, hobbies, and life events. I have always had a proportion of my posts be more personal in nature, I share about climbing mountains and my wife and sometimes just stuff I find funny. I try to keep this to less than a third of my overall content so it's still firmly professional but I think there is a benefit to showing some personality, particularly in the age of generic AI slop.
 
-There is no right answer, but think about what you are comfortable with being permanently public. LinkedIn posts are searchable. Future employers, collaborators, and students may see them. Share what you are genuinely comfortable with.
+![](images/hills.png)
+
+However, there is no right answer and it doesn't come without risk so think about what you are comfortable with being permanently public and what you are willing for the world to know about you. LinkedIn posts are searchable and current and future employers, collaborators, and students may see them. Share what you are genuinely comfortable with and don't worry what other people aredoing.
 
 ## A Note on AI-Generated Content
 
-LinkedIn is saturated with AI-generated content. Generic posts, obvious ChatGPT prose, comments that say nothing. This creates an opportunity: authentic human voices stand out.
+LinkedIn is saturated with AI-generated content. Generic posts, obvious ChatGPT copy-pasta, comments that say nothing. It's awful but if you have even an inkling of a personality this creates an opportunity for authentic human voices to stand out.
 
 Do not use AI to write your posts. The point of LinkedIn is building genuine connections, and you cannot do that with content that could have been written by anyone. People connect with people, not with smoothly optimised content.
 
-> 2025 was a career highlight year but you've all heard about that enough and the process of promotion, PFHEA, and new roles has involved so much reflection that I might actually fold in on myself. This is the first year in many years that I'm not ending it having an existential crisis (which is honestly a shame because everytime I have a crisis I get a tattoo, and now I don't have an excuse) and I'm very grateful to feel content and that I am exactly where I should be. But unless you know me personally, you'd not have known that over the years.
->
-> So the reflection is to remember that social media is an exercise in branding, that the only thing that lies in social comparison is madness, and that even people like me, who consciously shape their presence to make it seem like you know them, are just showing you want they want you to see.
->
-> (I want another tattoo).
+![](images/unhinged.png)
 
-This could only have been written by a specific person. It has personality, vulnerability, and humour. AI cannot replicate that.
+Is the above post slight unhinged? Yes. But it's very clearly a unhinged human.
 
-AI-generated comments are worse. Empty affirmations add nothing. Everyone recognises them. They build nothing.
-
-Where AI can help: checking grammar, brainstorming ideas (that you then write yourself), summarising content for your own understanding. The distinction is AI as a tool supporting your thinking versus AI replacing your thinking.
+AI may be able to with checking grammar and brainstorming ideas (that you then write yourself), but as with everything, the distinction is AI as a tool supporting your thinking versus AI replacing your thinking.
 
 Be yourself, even if it is messy. Rough but genuine beats smooth but generic.
