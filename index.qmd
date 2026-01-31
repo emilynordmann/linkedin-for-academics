@@ -2,7 +2,7 @@
 title: "LinkedIn for Academics"
 author: 
   - "Emily Nordmann"
-date: "January 2026"
+date: "2026-31-01"
 ---
 
 # Preface {.unnumbered}
@@ -19,17 +19,21 @@ LinkedIn is not Twitter and it never will be. The culture is different, the conv
 
 This book covers LinkedIn basics, content strategy, and maintaining your wellbeing on the platform. It also includes material that Dan's original did not emphasise, in particular, using LinkedIn to share teaching practice and open educational resources. Not because Twitter was bad for this, but because teaching-focused academics have historically been underserved by guidance on academic social media use and because I am a ride-or-die education-focused academic.
 
-## About Us
+## About me
 
-**Emily Nordmann** is Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. Her research focuses on how students learn in blended and digital environments, with particular emphasis on lecture capture and inclusive education. She is a Principal Fellow of the Higher Education Academy and co-founder of Rainbow Office Hours. She lives in Glasgow with her wife and likes to climb mountains and read books.
+I am a Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. My research focuses on how students learn in blended and digital environments, with a particular emphasis on lecture capture and inclusive education. I am a Principal Fellow of the Higher Education Academy and I live in Glasgow with my wife and like to climb mountains and read books.
+
+## Citation
+
+Nordmann, E. (2026). LinkedIn for Academics [ebook edition]. Retrieved from [https://emilynordmann/linkedin-for-academics](https://emilynordmann/linkedin-for-academics).  [https://doi.org/10.5281/zenodo.18445332](https://doi.org/10.5281/zenodo.18445332)
 
 
 ## Licence
 
-This book is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+This book is licensed under a [Creative Commons 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ## Acknowledgements
 
-This book builds directly on Dan Quintana's *Twitter for Scientists* (2020), which remains available at [t4scientists.com](https://t4scientists.com/). The structure and much of the underlying thinking comes from that work.
+This book builds directly on Dan Quintana's *Twitter for Scientists* (2020), which remains available at [t4scientists.com](https://t4scientists.com/). The structure and much of the underlying thinking comes from that work and I am grateful for the Creative Commons License allowing reuse.
 
-Claude (Anthropic) was used heavily in the making of this book but I take full responsibility for the adaptation, errors, and any opinions expressed in it.
+Claude Opus 4.5 (Anthropic) was used heavily in the making of this book but I take full responsibility for the adaptation, errors, and any opinions expressed in it.
