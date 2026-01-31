@@ -17,7 +17,7 @@ book:
     - 06-self-care.qmd
     - 07-bootcamp.qmd
   sidebar:
-    style: docked
+    style: floating
     search: true
 
 format:
