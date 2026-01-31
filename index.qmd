@@ -2,7 +2,7 @@
 title: "LinkedIn for Academics"
 author: 
   - "Emily Nordmann"
-date: "2026-31-01"
+date: today
 ---
 
 # Preface {.unnumbered}
