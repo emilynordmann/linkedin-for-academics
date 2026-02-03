@@ -6,26 +6,36 @@ book:
   title: "LinkedIn for Academics"
   author:
     - "Emily Nordmann"
-  date: "January 2026"
+  date: today
   chapters:
     - index.qmd
     - 01-why-linkedin.qmd
     - 02-linkedin-basics.qmd
     - 03-content.qmd
     - 04-teaching-learning.qmd
-    - 05-oer.qmd
-    - 06-self-care.qmd
-    - 07-bootcamp.qmd
+    - 05-self-care.qmd
+    - 06-bootcamp.qmd
   sidebar:
     style: floating
     search: true
+    collapse-level: 3
 
 format:
   html:
     theme:
-      light: cosmo
-      dark: slate
+      light: 
+        - cosmo
+        - custom.scss
+      dark: 
+        - slate
+        - custom-dark.scss
     toc: true
+    toc-expand: 3
+    toc-depth: 3
+    mainfont: "Noto Sans"
     include-in-header:
       - text: |
+          <link rel="preconnect" href="https://fonts.googleapis.com">
+          <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+          <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap" rel="stylesheet">
           <script data-goatcounter="https://emilynordmann.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>

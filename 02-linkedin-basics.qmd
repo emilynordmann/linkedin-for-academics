@@ -22,7 +22,7 @@ Here is mine as an example:
 
 > My leadership roles have centred around supporting those on the learning, teaching, and scholarship track. I am currently lead of the College of MVLS LTS Network and previously founded and led the Pedagogy and Education Research Unit in the School of Psychology and Neuroscience.
 
-> I am based in the School of Psychology and Neuroscience. My teaching is varied although centres on cognitive psychology and beginner data skills in R and I am a vocal advocate of open science and open educational resources where as a member of the PsyTeachR team I has authored several open-access data skills books and tutorials.
+> I am based in the School of Psychology and Neuroscience. My teaching is varied although centres on cognitive psychology and beginner data skills in R and I am a vocal advocate of open science and open educational resources where as a member of the PsyTeachR team I have authored several open-access data skills books and tutorials.
 
 > When I am not at work I like to climb mountains, do stand-up comedy, and play videogames.
 
@@ -30,7 +30,7 @@ Here is mine as an example:
 
 ### Profile photo and banner
 
-Use a photo where people can see your face. It does not need to be a fully professional headshot, but it should be recognisable and suitable for a work profile. People identify posts by the thumbnail, so consistency helps and if you change your profile photo too often, you'll losing your "branding".
+Use a photo where people can see your face. It does not need to be a fully professional headshot, but it should be recognisable and suitable for a work profile. People identify posts by the thumbnail, so consistency helps and if you change your profile photo too often, you'll lose your "branding".
 
 The banner image is optional but useful. Common choices include a photo of your institution, an image related to your research, a landscape from where you live, or something that reflects your personality.
 
@@ -44,7 +44,7 @@ By default, LinkedIn emphasises connections (mutual relationships). But you can 
 
 To enable this: `Settings > Visibility > Followers > Make follow primary`. This means the default button on your profile becomes "Follow" rather than "Connect." People can still connect if they click through, but following becomes the easier option.
 
-This is useful if you want a broader audience. Connections have a limit (30,000) but followers do not. For most academics, enabling follow makes sense.
+This is useful if you want a broader audience. Connections have a limit (30,000) but followers do not. There is also [evidence that LinkedIn's algorithm now favours followers over connections](https://autoposting.ai/linkedin-algorithm/) for content distribution, with approximately 10-15% of connections seeing a typical post compared to 25-30% of followers. For most academics, enabling follow makes sense.
 
 ## Understanding the Feed
 
@@ -52,21 +52,25 @@ This is useful if you want a broader audience. Connections have a limit (30,000)
 
 LinkedIn uses an algorithm to determine what appears in your feed. You will not see everything from everyone you follow. The algorithm prioritises content it predicts you will engage with, based on your past behaviour, the content's early performance, and various other factors that LinkedIn does not fully disclose.
 
-A few things that seem to matter based on available evidence:
+Unlike Twitter, where academic researchers extensively studied how the platform works, there is relatively little peer-reviewed research on LinkedIn's algorithm specifically. Most of what we know comes from industry analyses rather than controlled studies. That said, here is what seems to matter based on available evidence:
 
-**Early engagement.** Posts that get likes and especially comments in the first hour tend to be shown more widely. This is why posting when your audience is active matters and you can schedule your posts if you're not available during these times.
+**Early engagement.** According to [Richard van der Blom's Algorithm Insights 2025 research](https://authoredup.com/blog/linkedin-algorithm), the first 30-60 minutes after posting are crucial. Posts that get likes and especially comments during this window tend to be shown more widely. [Hootsuite's analysis](https://blog.hootsuite.com/linkedin-algorithm/) confirms that posts getting strong interaction in the first hour are shown to second and third-degree connections more frequently. This is why posting when your audience is active matters and you can schedule your posts if you're not available during these times.
 
-**Comments over likes.** Comments signal higher engagement than reactions. Posts with substantive comments tend to perform better.
+**Comments over likes.** Multiple analyses suggest comments signal higher engagement than reactions. [One industry report](https://postiv.ai/blog/linkedin-content-strategy-2025) suggests comments may be weighted up to 15 times more than likes, while [another citing LinkedIn's own Transparency Report](https://brixongroup.com/en/linkedin-algorithm-dos-donts-for-organic-visibility-in-the-b2b-sector/) suggests meaningful comments contribute up to 5 times more to reach than reactions. The exact multiplier varies, but the direction is consistent that comments matter more than likes.
 
-**Dwell time.** How long people spend reading your post matters. Content that people actually read (not just scroll past) gets favoured.
+**Dwell time.** How long people spend reading your post matters. [Hootsuite notes](https://blog.hootsuite.com/linkedin-algorithm/) that LinkedIn places increasing weight on dwell time, meaning posts that keep users engaged for longer see better distribution. Content that people actually read (not just scroll past) gets favoured.
 
-**Original content.** There is reasonable evidence that reposts get less engagement than original posts. Analysis from multiple sources suggests reposted content may receive around 85% less engagement than original content, and that heavy reposting can drag down your overall metrics. If you want to share someone else's content, writing your own post that references or builds on their work typically performs better than using the repost button.
+**Original content.** There is reasonable evidence that reposts get less engagement than original posts. [Analysis from multiple sources](https://skail.ai/reposting-is-killing-thought-leadership-on-linkedin/) suggests reposted content may receive around 85% less engagement than original content following algorithm changes in 2024, and that heavy reposting can drag down your overall metrics. If you want to share someone else's content, writing your own post that references or builds on their work typically performs better than using the repost button.
 
-**Links.** Single external links in posts appear to reduce reach, possibly because LinkedIn wants to keep users on the platform. The evidence on this is mixed, but many people now put links in the first comment rather than the post itself. Whether this actually helps is unclear, but it has become a common practice.
+**Links.** Single external links in posts appear to reduce reach, possibly because LinkedIn wants to keep users on the platform. [One analysis](https://brixongroup.com/en/linkedin-algorithm-dos-donts-for-organic-visibility-in-the-b2b-sector/) suggests posts with external links without sufficient context receive 83% less distribution, while [another](https://postiv.ai/blog/linkedin-content-strategy-2025) suggests roughly 30% reduction. The evidence is mixed, but many people now put links in the first comment rather than the post itself. Whether this actually helps is unclear, but it has become a common practice.
 
-Don't obsess over the algorithm - it will change, the evidence is often anecdotal, and being an interesting person who posts stuff people want to engage with matters more than gaming the system. But it helps to understand the basics.
+**Engagement bait is penalised.** The algorithm now [recognises patterns](https://www.useaware.co/blog/linkedin-algorithm) like "Comment YES if you agree!" and may flag them as low-quality or spam. Ask genuine questions that invite real discussion rather than fishing for empty engagement.
 
-### Saving posts \[bookmarks}
+**AI-generated content may perform worse.** [Some analyses suggest](https://autoposting.ai/linkedin-algorithm/) posts with recognisable AI patterns achieve significantly less organic reach. Whether this is algorithmic detection or simply that AI content tends to be less engaging is unclear, but authentic human-written content appears to perform better.
+
+That all said, don't obsess over the algorithm - it will change, the evidence is mostly anecdotal, and being an interesting person who posts stuff people want to engage with matters more than gaming the system. But it helps to understand the basics.
+
+### Saving posts [bookmarks]
 
 An annoying feature of LinkedIn is that in algorithmic view, it can sometimes be hard to find a post you have previously seen, unless you remember exactly who posted it. This is particularly annoying when the page refreshes without you asking it to. You can save posts by clicking the three dots at the top of the post then "Save".
 
@@ -84,7 +88,7 @@ Note that LinkedIn tends to reset this to algorithmic periodically, so you may n
 
 ## Taming Notifications and Emails
 
-LinkedIn's default notification settings are aggressive. If you do not adjust them, you will receive emails about everything: who viewed your profile, job anniversaries, suggested posts, people you might know, and endless other noise. It will bury anything actually useful.
+LinkedIn's default notification settings are **aggressive.** If you do not adjust them, you will receive emails about everything: who viewed your profile, job anniversaries, suggested posts, people you might know, and endless other noise. It will bury anything actually useful.
 
 Go to `Settings > Notifications`and work through each section. Turn off most email notifications. Keep notifications for direct messages and comments on your posts. Turn off "news and updates," "job opportunities" (unless you are job hunting), and most of the "network" notifications.
 
@@ -100,7 +104,7 @@ LinkedIn offers several reaction options: Like, Celebrate, Support, Love, Insigh
 
 ### Comments
 
-LinkedIn massively favours comments for reach to the points where a comment on someone else's post can be more valuable for building connections than your own posts. That said, if you're going to comment, say something substantive. "Great post!" adds nothing. Engage with the actual content: ask a question, add a related point, share your own experience, respectfully disagree.
+LinkedIn massively favours comments for reach to the point where a comment on someone else's post can be more valuable for building connections than your own posts. [Research to Action suggests](https://www.researchtoaction.org/2020/07/how-researchers-use-linkedin-effectively/) a good rule of thumb for researchers is to comment five times as often as you post. That said, if you're going to comment, say something substantive. "Great post!" adds nothing. Engage with the actual content: ask a question, add a related point, share your own experience, respectfully disagree.
 
 ### Reposts
 
@@ -125,8 +129,6 @@ To follow someone, go to their profile and click Follow. You will see their post
 Connections are mutual relationships. When you connect with someone, you both see each other's content and can message directly.
 
 When sending connection requests, it can be helpful to add a note explaining who you are and why you want to connect. Generic requests without notes are often ignored, especially by people who receive many requests.
-
-Good reasons to connect: you met at a conference, you work in similar areas, you have engaged with their content, you have a genuine professional reason to be in contact. Bad reasons: you want to sell them something, you are collecting connections for the numbers.
 
 ### Who to follow
 

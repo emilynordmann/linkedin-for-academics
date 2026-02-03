@@ -6,11 +6,10 @@ This chapter addresses the different question of why LinkedIn is a viable altern
 
 ## The Post-Twitter Landscape
 
-For about a decade, Twitter was the main home of academic social media with researchers sharing papers, building new and wider collaborations, and creating genuine communities around shared interests (in addition to mixing in enough memes and shitposting to never take itself too seriously). It was chaotic, occasionally toxic, but undeniably useful and fun.
+For about a decade, Twitter was the main home of academic social media with people sharing papers, building new and wider collaborations, and creating genuine communities around shared interests (in addition to mixing in enough memes and shitposting to never take itself too seriously). It was chaotic, occasionally toxic, but undeniably useful and fun.
 
-That era is over and changes to the platform since 2022 have driven many academics elsewhere. Research tracking academic migration found that approximately [18% of previously active academics moved from Twitter to Bluesky](https://arxiv.org/abs/2505.24801) between 2023 and 2025. Others scattered to Mastodon, Threads, or simply left social media entirely.
+That era is over and changes to the platform since 2022 have driven many academics elsewhere, including LinkedIn, BlueSky, Mastodon and Threads. I have spent several years trying most of the alternatives and settled on LinkedIn - it's nowhere near as fun or addictive at Old Twitter but it's proven the best professional option for me so this book aims to help make the transition easier for others.
 
-The academic social media landscape is now fragmented and there is still no single platform that replicates what Twitter offered at its peak. LinkedIn is one option among several, with particular strengths and limitations.
 
 ## What LinkedIn Offers
 
@@ -18,7 +17,7 @@ The academic social media landscape is now fragmented and there is still no sing
 
 **Stability.** Unlike platforms that have undergone dramatic changes in ownership or policy, LinkedIn has remained relatively consistent. Your investment in building a presence is less likely to be wiped out by platform upheaval or the whims of a ketamine binge.
 
-**Professional context.** LinkedIn's culture is explicitly professional. This shapes expectations in ways that can be useful - users post under their real name and are linked to their workplace so bad behaviour and toxicity is much less common. Posts are generally taken seriously and the tone tends toward constructive rather than combative.
+**Professional context.** LinkedIn's culture is explicitly professional. This shapes expectations in ways that can be useful: users post under their real name and are linked to their workplace so bad behaviour and toxicity is much less common. Posts are generally taken seriously and the tone tends toward constructive rather than combative.
 
 **Academic discourse.** LinkedIn does support genuine academic discussion. It is slower and less spontaneous than Twitter was, but substantive conversations happen. You can share papers, debate ideas, and engage with others' work. The threading is clunkier and the real-time back-and-forth doesn't take hold as much, but the discourse exists.
 
@@ -30,16 +29,26 @@ On the flip side:
 
 **Slower, less spontaneous interaction.** The rapid-fire exchanges and viral/trending content that characterised academic Twitter do not really happen on LinkedIn. Conversations unfold over hours or days rather than minutes. This can be frustrating if you are used to real-time debate or enjoy a side order of chaos.
 
-**Algorithmic unpredictability.** Like all platforms, LinkedIn uses algorithms to determine what appears in feeds. Organic reach has declined significantly over recent years. Your posts may not reach your followers reliably, and there is little transparency about why.
+**Algorithmic unpredictability.** Like all platforms, LinkedIn uses algorithms to determine what appears in feeds. [Industry analyses suggest organic reach has declined by approximately 50% in recent years](https://www.agorapulse.com/blog/linkedin/linkedin-algorithm-2025/), with engagement down around 25%. Your posts may not reach your followers reliably, and there is little transparency about why.
 
 **A corporate aesthetic.** LinkedIn's culture skews toward corporate professionalism. The performative positivity and motivational content can be grating. You will scroll past a lot of "I'm humbled to announce" posts.
 
+## Does Social Media Actually Help Academics?
+
+There is peer-reviewed evidence that social media engagement is associated with academic outcomes, though the research has focused more on Twitter than LinkedIn specifically.
+
+[Klar and colleagues (2023)](https://link.springer.com/article/10.1007/s11192-023-04799-y) analysed 8,512 applied researchers in Germany and found that researchers' popularity on social media correlated with both their visibility (measured by citations) and interconnectedness (measured by collaborations) in the publication domain. Importantly, they found that the relationship differed by platform: Twitter popularity was more strongly associated with citations from distinct authors, while LinkedIn followers had higher marginal effects on the number of distinct co-authors. The authors conclude that "social media platforms are a relevant channel of academic communication, alongside existing channels of formal and informal exchange."
+
+
+[A Nature survey of over 3,500 researchers](https://www.nature.com/news/online-collaboration-scientists-and-the-social-network-1.15711) found that ResearchGate, LinkedIn, Facebook and Twitter were the most visited platforms. The primary reason researchers maintained profiles was simply to be discoverable: "maintaining a profile in case someone wanted to get in touch." After that, the most popular activities were posting content related to work, discovering peers, and tracking metrics.
+
+The evidence suggests social media is genuinely useful for academics, not just a distraction. But the specific benefits depend on what you want to achieve and which platform you use.
 
 ## For Teaching-Focused Academics
 
 Teaching innovations deserve audiences beyond your own institution. When you develop an effective assessment approach, create useful resources, or solve a common pedagogical problem, others could benefit from knowing about it. LinkedIn provides a way to share this work with educators across institutions and sectors.
 
-LinkedIn also connects you with people outside traditional academic networks: learning technologists, educational developers, trainers in professional contexts, and others working on similar problems in different settings. These connections can be professionally valuable and intellectually stimulating.
+LinkedIn also connects you with people outside traditional academic networks such as learning technologists, educational developers, trainers in professional contexts, and others working on similar problems in different settings.
 
 To be clear, Twitter was also good for this. The educational community on academic Twitter was vibrant and supportive but Dan's original book did not explicitly have teaching as a focus, so this book addresses that gap.
 
@@ -47,5 +56,4 @@ To be clear, Twitter was also good for this. The educational community on academ
 
 If you create open educational resources, LinkedIn offers a distribution channel. OER repositories are essential for hosting and discoverability, but they are largely passive. LinkedIn lets you actively push resources to people who might use them, explain the context, and invite feedback.
 
-There is more on this in [Chapter 5](#oer).
-
+There is more on this in [Chapter 4](#teaching).

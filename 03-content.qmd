@@ -1,10 +1,16 @@
 # Creating Content {#content}
 
-The question I get asked most about LinkedIn is "what should I post?" Everyone has a different style and what works for you will be different for what works for me but here's a starter guide.
+The question I get asked most about social media is "what should I post?" Everyone has a different style and what works for you will be different for what works for me but here's a starter guide.
 
 ## The Basic Principle
 
-Post things that are genuinely useful, interesting, or engaging to people in your field. That is it. Everything else is details. You are well-placed to educate because you have expertise. You do not need to be the world's leading authority on a topic to have something worth sharing. If you know something that others in your network might find useful, share it.
+Post things that are useful, interesting, or engaging to people in your field. That's it. Everything else is details. You are well-placed to educate because you have expertise. You do not need to be the world's leading authority on a topic to have something worth sharing. If you know something that others in your network might find useful, share it.
+
+## Time investment
+
+I also want to recognise upfront that building a social media following that will be genuinely useful and impactful takes time. My network and reach is now large enough that I think the time I spend on social media gives more than it takes - I get invites for talks, papers, collaborations, and it does spread my work. *This took years*. 
+
+I've spoken to colleagues who logged on, posted the link to their paper, and then decried it as useless because it didn't go viral. That's not how it works, it takes a sustained presence . You don't have to do this. If you want to network by going to conferences and other more traditional routes, go for your life but they also take effort so don't expect anything less from social media. 
 
 ## What Works
 
@@ -27,7 +33,7 @@ Here is an example:
 
 You do not have to create everything you share. Sharing papers and resources from others with your own commentary is valuable.
 
-Add your perspective: why is this worth reading? What did you learn? This does more than share a link. It explains what makes the paper noteworthy and positions you as someone with expertise. It is entirely possible to build a following by being a person who shares a lot of stuff people find interesting and have none of it be your own work.
+Add your perspective: why is this worth reading? What did you learn? This does more than share a link, it explains what makes the paper noteworthy and positions you as someone with expertise. It is entirely possible to build a following by being a person who shares a lot of stuff people find interesting and have none of it be your own work.
 
 ![Sharing a paper from someone else](images/paper.png)
 
@@ -39,7 +45,7 @@ Posts that share genuine experience resonate strongly. What you have learned, wh
 
 ### Asking questions
 
-Asking questions can invite engagement and is a really useful way of getting information. Remember that specific questions get specific answers. Vague questions ("Any tips for teaching?") get vague answers.
+Asking questions can invite engagement and can also be a really useful way of getting information. Remember that specific questions get specific answers and vague questions ("Any tips for teaching?") get vague answers.
 
 ![](images/questions.png)
 
@@ -53,13 +59,13 @@ If you give a talk, take a photo of the room or your slides. If you are at a con
 
 ## What Does Not Work
 
-**Pure self-promotion without value.** "Excited to announce my new paper!" with a link (sometimes not even with a link) and nothing else. Tell people why they should care.
+**Pure self-promotion without value.** "Excited to announce my paper was accepted for publication!" with no link or preprint a link. Give your audience something useful (the paper to read).
 
 **Generic inspirational content.** LinkedIn is full of this already. Unless you have something distinctive to say, skip the motivational posts.
 
-**Engagement bait.** "Like if you agree!" or "Comment YES for more content!" This is annoying and increasingly penalised by the algorithm.
+**Engagement bait.** "Like if you agree!" or "Comment YES for more content!" This is annoying and increasingly penalised by the algorithm (see [Chapter 2](#basics)).
 
-**Excessive posting.** Once a day is plenty. Several times a week is fine. Multiple times a day and you risk becoming noise.
+**Excessive posting.** A couple of posts a week is sustainable long-term; once a day is fine if you have the content, but more than that and you risk becoming noise.
 
 **Controversial takes for the sake of engagement.** Hot takes can work if you genuinely believe them and can defend them. Manufactured controversy is transparent and tiresome.
 
@@ -85,7 +91,7 @@ How much personal content to share is your choice. Some people keep LinkedIn str
 
 ![](images/hills.png)
 
-However, there is no right answer and it doesn't come without risk so think about what you are comfortable with being permanently public and what you are willing for the world to know about you. LinkedIn posts are searchable and current and future employers, collaborators, and students may see them. Share what you are genuinely comfortable with and don't worry what other people aredoing.
+However, there is no right answer and it doesn't come without risk so think about what you are comfortable with being permanently public and what you are willing for the world to know about you. LinkedIn posts are searchable and current and future employers, collaborators, and students may see them. Share what you are genuinely comfortable with and don't worry what other people are doing.
 
 ## A Note on AI-Generated Content
 
@@ -95,8 +101,8 @@ Do not use AI to write your posts. The point of LinkedIn is building genuine con
 
 ![](images/unhinged.png)
 
-Is the above post slight unhinged? Yes. But it's very clearly a unhinged human.
+Is the above post slightly unhinged? Yes. But it's very clearly an unhinged human.
 
-AI may be able to with checking grammar and brainstorming ideas (that you then write yourself), but as with everything, the distinction is AI as a tool supporting your thinking versus AI replacing your thinking.
+AI may be able to help with checking grammar and brainstorming ideas (that you then write yourself), but as with everything, the distinction is AI as a tool supporting your thinking versus AI replacing your thinking.
 
 Be yourself, even if it is messy. Rough but genuine beats smooth but generic.

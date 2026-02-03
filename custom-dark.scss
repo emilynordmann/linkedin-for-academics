@@ -1,0 +1,191 @@
+/*-- scss:defaults --*/
+
+// ============================================
+// University of Glasgow Brand Colours (2026)
+// For Dark Mode - using light palette prominently
+// ============================================
+
+// Primary (original)
+$uofg-blue: #011451;
+
+// Secondary Dark Palette
+$uofg-dark-purple: #4C2683;
+$uofg-dark-pink: #A60367;
+$uofg-dark-green: #405D18;
+$uofg-dark-blue: #005398;
+$uofg-dark-red: #7D2239;
+
+// Secondary Light Palette (used more in dark mode)
+$uofg-light-purple: #A5A1CE;
+$uofg-light-pink: #E98BAF;
+$uofg-light-green: #81C071;
+$uofg-light-blue: #4DBBC6;
+$uofg-light-yellow: #F2D25C;
+
+// ============================================
+// Dark Mode Adjustments
+// ============================================
+
+// Use light blue as primary in dark mode for visibility
+$primary: $uofg-light-blue;
+$link-color: $uofg-light-blue;
+
+// Typography
+$font-family-sans-serif: "Noto Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-family-serif: "Noto Serif", Georgia, "Times New Roman", serif;
+$headings-font-family: "Noto Sans", sans-serif;
+$headings-font-weight: 600;
+
+/*-- scss:rules --*/
+
+// ============================================
+// Import Google Fonts
+// ============================================
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600&family=Noto+Serif:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&display=swap');
+
+// ============================================
+// Headings - using light blue for visibility
+// ============================================
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+  color: $uofg-light-blue;
+  font-family: $headings-font-family;
+  font-weight: 600;
+}
+
+.title {
+  color: $uofg-light-blue;
+}
+
+.chapter-number {
+  color: $uofg-light-purple;
+}
+
+// ============================================
+// Links
+// ============================================
+
+a {
+  color: $uofg-light-blue;
+  text-decoration: none;
+  
+  &:hover, &:focus {
+    color: $uofg-light-purple;
+    text-decoration: underline;
+  }
+}
+
+// ============================================
+// Sidebar Navigation
+// ============================================
+
+.sidebar-title {
+  color: $uofg-light-blue;
+  font-weight: 600;
+}
+
+.sidebar nav[role=doc-toc] ul > li > a.active,
+.sidebar nav[role=doc-toc] ul > li > a:hover {
+  border-left-color: $uofg-light-blue;
+  color: $uofg-light-blue;
+}
+
+.sidebar-navigation a {
+  color: $uofg-light-blue;
+  
+  &:hover {
+    color: $uofg-light-purple;
+  }
+}
+
+// ============================================
+// Blockquotes
+// ============================================
+
+blockquote {
+  border-left: 4px solid $uofg-light-purple;
+  background-color: rgba($uofg-light-purple, 0.1);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-radius: 0 4px 4px 0;
+  
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+// ============================================
+// Code Blocks
+// ============================================
+
+pre {
+  border-left: 3px solid $uofg-light-blue;
+  border-radius: 0 4px 4px 0;
+}
+
+code {
+  color: $uofg-light-pink;
+  background-color: rgba($uofg-light-purple, 0.15);
+  padding: 0.1rem 0.3rem;
+  border-radius: 3px;
+}
+
+pre code {
+  color: inherit;
+  background-color: transparent;
+  padding: 0;
+}
+
+// ============================================
+// Callout Boxes
+// ============================================
+
+.callout-note {
+  border-left-color: $uofg-light-blue !important;
+}
+
+.callout-tip {
+  border-left-color: $uofg-light-green !important;
+}
+
+.callout-warning {
+  border-left-color: $uofg-light-yellow !important;
+}
+
+.callout-important {
+  border-left-color: $uofg-light-pink !important;
+}
+
+// ============================================
+// Tables
+// ============================================
+
+.table {
+  th {
+    background-color: rgba($uofg-light-blue, 0.2);
+    color: $uofg-light-blue;
+    font-weight: 600;
+  }
+  
+  tbody tr:nth-of-type(even) {
+    background-color: rgba($uofg-light-purple, 0.08);
+  }
+}
+
+// ============================================
+// Footer
+// ============================================
+
+.nav-footer {
+  border-top: 2px solid $uofg-light-blue;
+}
+
+// ============================================
+// Selection highlight
+// ============================================
+
+::selection {
+  background-color: rgba($uofg-light-blue, 0.3);
+}

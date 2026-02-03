@@ -9,7 +9,7 @@ date: today
 
 ## Why This Book Exists
 
-I consider myself lucky to have experienced academic Twitter of the 2010s - I have long-standing research collaborations with people I met on Twitter, I owe my job at Glasgow to Twitter, and I even made a new best friend from Twitter. And then it collapsed into a hateful cesspit and academic social media  fractured. Some academics migrated to Bluesky, Mastodon and Threads, but to everyone's genuine surprise, many, including myself, have settled on LinkedIn. 
+I consider myself lucky to have experienced academic Twitter of the 2010s - I have long-standing research collaborations with people I met on Twitter, I owe my job at Glasgow to Twitter, and I even made a new best friend from Twitter. And then it collapsed into a hateful cesspit and academic social media fractured. Some academics migrated to Bluesky, Mastodon and Threads, but to everyone's genuine surprise, many, including myself, have settled on LinkedIn. 
 
 In 2020, Daniel Quintana wrote [Twitter for Scientists](https://t4scientists.com/), a practical guide to using Twitter for academic networking and research dissemination. This book is a sequel of sorts, adapted for LinkedIn and updated for the current landscape. It is not a replacement and if you want comprehensive guidance on why academics should engage with social media at all, you should still read Dan's original. This book assumes you have already decided that some form of professional social media presence might be useful and focuses on making LinkedIn work for you specifically.
 
@@ -21,11 +21,13 @@ This book covers LinkedIn basics, content strategy, and maintaining your wellbei
 
 ## About me
 
-I am a Professor of Evidence-Informed and Associate Dean for Learning and Teaching at the University of Glasgow. My research focuses on how students learn in blended and digital environments, with a particular emphasis on lecture capture and inclusive education. I am a Principal Fellow of the Higher Education Academy and I live in Glasgow with my wife and like to climb mountains and read books.
+I am a Professor of Evidence-Informed Education and Associate Dean for Learning and Teaching at the University of Glasgow and I am also a Principal Fellow of the Higher Education Academy. My research focuses on how students learn in blended and digital environments, with a particular emphasis on lecture capture and inclusive education. I live in Glasgow with my wife and like to climb mountains and read books.
+
+You can find me on [LinkedIn here](https://www.linkedin.com/in/prof-emily-nordmann-b2476967/).
 
 ## Citation
 
-Nordmann, E. (2026). LinkedIn for Academics [ebook edition]. Retrieved from [https://emilynordmann/linkedin-for-academics](https://emilynordmann/linkedin-for-academics).  [https://doi.org/10.5281/zenodo.18445332](https://doi.org/10.5281/zenodo.18445332)
+Nordmann, E. (2026). LinkedIn for Academics [ebook edition]. Retrieved from [https://emilynordmann.github.io/linkedin-for-academics](https://emilynordmann.github.io/linkedin-for-academics).  [https://doi.org/10.5281/zenodo.18445332](https://doi.org/10.5281/zenodo.18445332)
 
 
 ## Licence
