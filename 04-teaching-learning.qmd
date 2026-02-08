@@ -69,19 +69,3 @@ When sharing an OER, include what it is (specifically—"lecture slides" is too 
 ![](images/teaching5.png)
 
 ![](images/teaching4.png)
-
-## Challenges
-
-**Institutional sensitivities.** Not everything about your teaching context can be shared publicly. Be thoughtful about what you post, especially regarding challenges or criticisms.
-
-**Student privacy.** Even positive stories about students can be problematic. See [Chapter 3](#content) for more on this.
-
-**Avoiding performative reflection.** There is a genre of teaching post that is more about signalling how much you care than sharing useful information. Try to be genuinely useful rather than performatively reflective.
-
-**Quality concerns.** Sharing work publicly can feel exposing. Remember that "good enough to be useful" is the bar, not "perfect."
-
-**Institutional recognition.** OER creation is not always recognised promotion criteria (although it is at UofG) so be aware of your criteria and what metrics of impact might matter.
-
-**Accessibility.** Ensure your resources are accessible: document structure, alt text for images, readable fonts. This takes time but matters.
-
-**Documenting impact.** If you want to use your LinkedIn activity as evidence of impact, keep track of engagement metrics, download figures from repositories, and any tangible outcomes (invitations, collaborations, adoptions of your resources). Screenshots are useful because platforms change and posts can disappear. Tools like [Altmetric](https://www.altmetric.com/) can help track mentions of your work across social media and news outlets. Linking your publications to your [ORCID](https://orcid.org/) profile also helps maintain a consistent academic identity across platforms.

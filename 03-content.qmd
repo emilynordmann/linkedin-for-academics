@@ -14,6 +14,16 @@ I've spoken to colleagues who logged on, posted the link to their paper, and the
 
 ## What Works
 
+### Scheduling posts
+
+Unlike Twitter's chronological feed, LinkedIn's algorithm prioritises content based on relevance, engagement, and user relationships rather than purely temporal ordering. This fundamentally changes how we should approach post scheduling. Where Twitter rewarded frequent, real-time posting, LinkedIn favours strategic timing and consistency over volume. 
+
+Industry analyses consistently identify mid-week posting (Tuesday to Thursday) as generating higher engagement on LinkedIn, with morning hours (7:00-9:00 AM) and lunch periods (12:00-1:00 PM) showing particular strength (Hootsuite, 2024). However, these represent aggregate patterns across millions of users, and your optimal posting time depends on when your specific network is active. For academics, consider institutional rhythms.Posts published during term time typically receive more engagement than those during holiday periods and posting in the early afternoon UK time often captures both European afternoon and North American morning activity.
+
+To schedule posts, use LinkedIn's native scheduling functionality by selecting the clock icon when creating a post, which allows you to compose content and select a future publication time directly within the platform. 
+
+![Schedule a post](images/schedule.png)
+
 ### Sharing your own work
 
 Share papers, preprints, and resources you have created. When you do:

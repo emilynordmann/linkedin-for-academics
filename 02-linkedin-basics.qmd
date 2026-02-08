@@ -44,7 +44,7 @@ By default, LinkedIn emphasises connections (mutual relationships). But you can 
 
 To enable this: `Settings > Visibility > Followers > Make follow primary`. This means the default button on your profile becomes "Follow" rather than "Connect." People can still connect if they click through, but following becomes the easier option.
 
-This is useful if you want a broader audience. Connections have a limit (30,000) but followers do not. There is also [evidence that LinkedIn's algorithm now favours followers over connections](https://autoposting.ai/linkedin-algorithm/) for content distribution, with approximately 10-15% of connections seeing a typical post compared to 25-30% of followers. For most academics, enabling follow makes sense.
+This is useful if you want a broader audience. Connections have a limit (30,000) but followers do not. There is also [evidence that LinkedIn's algorithm now favours followers over connections](https://autoposting.ai/linkedin-algorithm/) for content distribution, with approximately 10-15% of connections seeing a typical post compared to 25-30% of followers.
 
 ## Understanding the Feed
 
@@ -54,9 +54,9 @@ LinkedIn uses an algorithm to determine what appears in your feed. You will not 
 
 Unlike Twitter, where academic researchers extensively studied how the platform works, there is relatively little peer-reviewed research on LinkedIn's algorithm specifically. Most of what we know comes from industry analyses rather than controlled studies. That said, here is what seems to matter based on available evidence:
 
-**Early engagement.** According to [Richard van der Blom's Algorithm Insights 2025 research](https://authoredup.com/blog/linkedin-algorithm), the first 30-60 minutes after posting are crucial. Posts that get likes and especially comments during this window tend to be shown more widely. [Hootsuite's analysis](https://blog.hootsuite.com/linkedin-algorithm/) confirms that posts getting strong interaction in the first hour are shown to second and third-degree connections more frequently. This is why posting when your audience is active matters and you can schedule your posts if you're not available during these times.
+**Early engagement.** According to [Algorithm Insights 2025 research](https://authoredup.com/blog/linkedin-algorithm), the first 30-60 minutes after posting are crucial. Posts that get likes and especially comments during this window tend to be shown more widely. [Hootsuite's analysis](https://blog.hootsuite.com/linkedin-algorithm/) confirms that posts getting strong interaction in the first hour are shown to second and third-degree connections more frequently. This is why posting when your audience is active matters and you can schedule your posts if you're not available during these times.
 
-**Comments over likes.** Multiple analyses suggest comments signal higher engagement than reactions. [One industry report](https://postiv.ai/blog/linkedin-content-strategy-2025) suggests comments may be weighted up to 15 times more than likes, while [another citing LinkedIn's own Transparency Report](https://brixongroup.com/en/linkedin-algorithm-dos-donts-for-organic-visibility-in-the-b2b-sector/) suggests meaningful comments contribute up to 5 times more to reach than reactions. The exact multiplier varies, but the direction is consistent that comments matter more than likes.
+**Comments over likes.** Multiple analyses suggest comments signal higher engagement than reactions. [One industry report](https://postiv.ai/blog/linkedin-content-strategy-2025) suggests comments may be weighted up to 15 times more than likes, while [another citing LinkedIn's own Transparency Report](https://brixongroup.com/en/linkedin-algorithm-dos-donts-for-organic-visibility-in-the-b2b-sector/) suggests meaningful comments contribute up to 5 times more to reach than reactions. 
 
 **Dwell time.** How long people spend reading your post matters. [Hootsuite notes](https://blog.hootsuite.com/linkedin-algorithm/) that LinkedIn places increasing weight on dwell time, meaning posts that keep users engaged for longer see better distribution. Content that people actually read (not just scroll past) gets favoured.
 
@@ -104,7 +104,7 @@ LinkedIn offers several reaction options: Like, Celebrate, Support, Love, Insigh
 
 ### Comments
 
-LinkedIn massively favours comments for reach to the point where a comment on someone else's post can be more valuable for building connections than your own posts. [Research to Action suggests](https://www.researchtoaction.org/2020/07/how-researchers-use-linkedin-effectively/) a good rule of thumb for researchers is to comment five times as often as you post. That said, if you're going to comment, say something substantive. "Great post!" adds nothing. Engage with the actual content: ask a question, add a related point, share your own experience, respectfully disagree.
+LinkedIn massively favours comments for reach to the point where a comment on someone else's post can be more valuable for building connections than your own posts. That said, if you're going to comment, say something substantive. "Great post!" adds nothing. Engage with the actual content: ask a question, add a related point, share your own experience, respectfully disagree.
 
 ### Reposts
 
@@ -114,7 +114,7 @@ If you do repost, add your own thoughts. A bare repost without commentary is the
 
 ### Direct messages
 
-You can message people directly. This is useful for conversations that do not need to be public, or for reaching out to people you want to connect with. Keep messages short, especially if you are contacting someone you do not know. Say who you are, why you are reaching out, and what you are asking. Long messages from strangers often go unread.
+You can message people directly. This is useful for conversations that do not need to be public, or for reaching out to people you want to connect with. 
 
 Do not use DMs to pitch products or services. Do not send connection requests with sales messages attached. And for the love of god, DO NOT DM WOMEN TRYING TO HIT ON THEM.
 
